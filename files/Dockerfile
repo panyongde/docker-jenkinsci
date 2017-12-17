@@ -159,6 +159,7 @@ RUN apt-get -y update && apt-get -y upgrade && apt-get -y install snmp php7.1 \
     php7.1-sybase  \
     php7.1-tidy  \
     php7.1-xmlrpc \
+    php7.1-zip \
     php-mongodb \
     php-redis \
     php-apcu \
